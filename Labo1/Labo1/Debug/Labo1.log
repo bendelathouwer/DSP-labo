@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\users\ecto1\documents\github\dsp-labo\labo1\labo1\source.c(39): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\users\ecto1\documents\github\dsp-labo\labo1\labo1\source.c(43): error C2440: 'function': cannot convert from 'double *' to 'double'
+c:\users\ecto1\documents\github\dsp-labo\labo1\labo1\source.c(43): warning C4024: 'GenerateSine': different types for formal and actual parameter 6
+c:\users\ecto1\documents\github\dsp-labo\labo1\labo1\source.c(53): error C2065: 'M_Pi': undeclared identifier
+c:\users\ecto1\documents\github\dsp-labo\labo1\labo1\source.c(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ecto1\documents\github\dsp-labo\labo1\labo1\source.c(52): fatal error C1075: the left brace '{' was unmatched at the end of the file
